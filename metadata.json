@@ -1,0 +1,6 @@
+{
+  "name": "PastePal",
+  "description": "Apple 本应该自己做的剪贴板。自动记录你复制过的一切，随时搜索、收藏与回拷，完美还原 iOS 原生质感。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
